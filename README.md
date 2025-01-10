@@ -1,4 +1,7 @@
-# fe_we
+# Backend API for Windows Explorer
+
+## Details
+Using Node.js + Express
 
 ## Project setup
 ```
